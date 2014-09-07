@@ -1,0 +1,21 @@
+* {
+    font-family: fantasy;
+    text-align: center;
+}
+body {
+    background-color: black;
+    color: white;
+}
+h1 {
+    color: orange;
+    border-top: 1px solid orange;
+    border-bottom: 1px solid orange;
+}
+a {
+    text-decoration: none;
+    color: blue;
+}
+a:visited {
+    color: blue;
+}
+/* #navbar { */
